@@ -21,12 +21,13 @@
 ### 首次启动
 1. 安装依赖：
    ```bash
+   git clone https://github.com/gbljdgb/Lightweight-Eye-Health-Protector.git
    pip install -r requirements.txt
    ```
-2. 运行main.bat启动程序
+2. 运行`main.bat`启动程序
 3. 托盘图标说明：
-  * 左键单击：暂无功能
-  * 右键菜单：设置/退出
+   * 左键单击：暂无功能
+   * 右键菜单：设置/退出
 
 ### 功能操作
 - 软件启动后会在电脑上出现小弹球（可拖动），进入工作时间倒计时
