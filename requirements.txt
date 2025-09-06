@@ -1,2 +1,4 @@
+# python 3.13.5 正常运行
 Pillow
 pystray
+
