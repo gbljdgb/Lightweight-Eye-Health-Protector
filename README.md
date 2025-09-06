@@ -44,7 +44,7 @@
 
 - 若选择不休息直接进入工作时间倒计时，选择进入休息则进入休息倒计时
 
-![alt text](figure/relax_time.png)
+<img width="1015" height="660" alt="image" src="https://github.com/user-attachments/assets/291409cd-86ce-453a-8913-0ded9c790d86" />
 
 - 休息时间结束后会弹出窗口，点击确认后重新进入工作状态
 
